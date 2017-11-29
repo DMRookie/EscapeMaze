@@ -1,0 +1,2116 @@
+At the beginning of the Main
+Starting VPGAgent for Environment 'ALE({})'
+0.3
+0.5
+-0.4
+0.0
+-0.3
+-0.2
+-0.2
+-0.1
+-0.2
+-0.1
+0.0
+-0.1
+-0.7
+0.0
+-0.1
+-0.1
+-0.5
+0.4
+-0.4
+0.1
+-0.1
+-0.2
+-0.2
+-0.4
+-0.3
+0.0
+0.0
+0.2
+-0.5
+0.2
+-0.2
+0.1
+-0.1
+-0.4
+-0.1
+0.1
+0.0
+0.3
+-0.8
+-0.3
+-0.5
+-0.3
+0.0
+0.3
+-0.1
+-0.2
+-0.5
+0.2
+-0.2
+-0.1
+0.0
+-0.4
+0.0
+-0.4
+-0.2
+0.0
+-0.2
+-0.1
+-0.5
+-0.1
+-0.2
+0.0
+0.0
+-0.4
+-0.3
+-0.1
+-0.1
+-0.2
+0.0
+-0.3
+-0.3
+-0.1
+-0.5
+-0.1
+-0.1
+-0.7
+0.0
+0.2
+-0.3
+-0.3
+0.4
+0.2
+0.2
+-0.4
+-0.1
+0.3
+0.0
+-0.1
+0.1
+-0.3
+-0.1
+-0.2
+0.0
+-0.5
+-0.4
+-0.2
+-0.3
+0.1
+-0.4
+0.3
+Learning finished. Total episodes: 1000
+At the beginning of the Main
+At the beginning of the Main
+Starting DQNAgent for Environment 'ALE({})'
+0.1
+0.0
+-0.2
+0.0
+-0.3
+-0.3
+-0.1
+-0.6
+-0.5
+0.1
+0.3
+-0.2
+-0.2
+-0.4
+-0.2
+-0.3
+0.1
+-0.5
+-0.2
+-0.2
+0.5
+-0.1
+-0.2
+-0.3
+-0.1
+-0.2
+-0.5
+0.0
+0.0
+-0.1
+-0.4
+0.2
+-0.5
+-0.6
+-0.2
+-0.3
+-0.5
+-0.4
+-0.2
+-0.1
+-0.4
+-0.2
+0.1
+-0.2
+-0.2
+-0.5
+-0.6
+-0.2
+-0.6
+0.1
+-0.6
+-0.5
+-0.1
+-0.4
+0.0
+-0.2
+-0.3
+-0.2
+-0.3
+-0.3
+-0.1
+-0.1
+0.1
+0.1
+-0.2
+-0.3
+-0.1
+-0.1
+-0.1
+-0.5
+-0.4
+0.0
+-0.5
+-0.5
+0.1
+-0.1
+0.1
+0.0
+-0.2
+-0.4
+-0.3
+0.1
+0.0
+-0.6
+0.0
+-0.3
+-0.2
+0.0
+-0.2
+-0.3
+-0.2
+-0.1
+0.0
+-0.2
+-0.1
+-0.2
+-0.1
+0.2
+-0.6
+-0.3
+Learning finished. Total episodes: 1000
+At the beginning of the Main
+Starting DQNAgent for Environment 'ALE({})'
+Finished episode 10 after 1 timesteps. Steps Per Second 770.7896571933763
+-0.5
+Finished episode 20 after 1 timesteps. Steps Per Second 845.0210031126916
+-0.6
+Finished episode 30 after 1 timesteps. Steps Per Second 999.9416689170943
+-0.6
+Finished episode 40 after 5 timesteps. Steps Per Second 1094.0542469003874
+-0.5
+Finished episode 50 after 3 timesteps. Steps Per Second 1129.6424923391216
+-0.4
+Finished episode 60 after 1 timesteps. Steps Per Second 1118.8167116801708
+-0.1
+Finished episode 70 after 13 timesteps. Steps Per Second 1105.1996829141196
+0.0
+Finished episode 80 after 1 timesteps. Steps Per Second 1093.0878237815714
+0.1
+Finished episode 90 after 3 timesteps. Steps Per Second 1104.6750391792687
+-0.6
+Finished episode 100 after 1 timesteps. Steps Per Second 1124.1038028481714
+-0.3
+Learning finished. Total episodes: 100
+At the beginning of the Main
+Starting DQNAgent for Environment 'ALE({})'
+Finished episode 10 after 2 timesteps. Steps Per Second 857.0918580642415
+-0.4
+Finished episode 20 after 2 timesteps. Steps Per Second 1071.368080473891
+-0.2
+Finished episode 30 after 15 timesteps. Steps Per Second 1181.1405741239419
+-0.2
+Finished episode 40 after 9 timesteps. Steps Per Second 1262.1491990128982
+0.2
+Finished episode 50 after 3 timesteps. Steps Per Second 1271.666523278172
+-0.4
+Finished episode 60 after 7 timesteps. Steps Per Second 1310.0696750368663
+0.4
+Finished episode 70 after 8 timesteps. Steps Per Second 1322.964697381453
+-0.2
+Finished episode 80 after 9 timesteps. Steps Per Second 1311.1828596900525
+-0.4
+Finished episode 90 after 3 timesteps. Steps Per Second 1311.6656694520789
+-0.2
+Finished episode 100 after 3 timesteps. Steps Per Second 1326.1651478216172
+0.2
+Learning finished. Total episodes: 100
+At the beginning of the Main
+Starting DQNAgent for Environment 'ALE({})'
+Finished episode 10 after 6 timesteps. Steps Per Second 1046.9996185518432
+-0.2
+Finished episode 20 after 6 timesteps. Steps Per Second 1092.961071602821
+-0.4
+Finished episode 30 after 3 timesteps. Steps Per Second 1185.4999563743254
+-0.6
+Finished episode 40 after 14 timesteps. Steps Per Second 1130.073105455068
+0.2
+Finished episode 50 after 11 timesteps. Steps Per Second 1092.7757279729951
+0.0
+Finished episode 60 after 6 timesteps. Steps Per Second 1056.6627259714255
+-0.8
+Finished episode 70 after 4 timesteps. Steps Per Second 1077.8370104708154
+0.0
+Finished episode 80 after 1 timesteps. Steps Per Second 1092.7717784355273
+0.6
+Finished episode 90 after 1 timesteps. Steps Per Second 1089.490083776221
+-0.2
+Finished episode 100 after 4 timesteps. Steps Per Second 1084.7780330563878
+-0.2
+Learning finished. Total episodes: 100
+At the beginning of the Main
+Starting DQNAgent for Environment 'ALE({})'
+Finished episode 10 after 10 timesteps. Steps Per Second 825.3473247633932
+-0.4
+Finished episode 20 after 2 timesteps. Steps Per Second 980.1418060705914
+-0.2
+Finished episode 30 after 3 timesteps. Steps Per Second 1133.2680942060397
+-0.6
+Finished episode 40 after 14 timesteps. Steps Per Second 1127.0534521720595
+-0.2
+Finished episode 50 after 8 timesteps. Steps Per Second 1116.9926349638686
+-0.4
+Finished episode 60 after 8 timesteps. Steps Per Second 1128.9672007490526
+-0.4
+Finished episode 70 after 9 timesteps. Steps Per Second 1135.681283977413
+0.4
+Finished episode 80 after 14 timesteps. Steps Per Second 1126.3502995129793
+-0.2
+Finished episode 90 after 4 timesteps. Steps Per Second 1128.4073478368482
+-0.2
+Finished episode 100 after 1 timesteps. Steps Per Second 1118.1623110475016
+0.2
+Learning finished. Total episodes: 100
+At the beginning of the Main
+Starting DQNAgent for Environment 'Treasure and Pirate'
+-0.6
+-0.2
+-0.8
+0.0
+-0.4
+-0.8
+0.2
+-0.2
+-0.2
+0.2
+-0.2
+0.0
+-0.4
+-0.6
+0.4
+-0.2
+0.0
+-0.4
+-0.4
+0.4
+-0.2
+-0.4
+-0.6
+-0.2
+-0.6
+-0.2
+-0.2
+-0.2
+-0.6
+-0.8
+0.0
+0.2
+-0.4
+-0.2
+-0.4
+-0.8
+-0.2
+-0.8
+-0.6
+-0.4
+-0.2
+-0.2
+-0.2
+0.4
+-0.4
+0.4
+-0.4
+0.2
+-0.4
+-0.6
+-0.4
+-0.6
+0.2
+-0.2
+-0.2
+-0.8
+-0.2
+-0.2
+-0.2
+-0.6
+-0.6
+0.4
+-0.2
+0.0
+0.0
+-0.4
+-0.4
+-0.6
+-0.4
+0.0
+-0.6
+-0.6
+0.0
+0.2
+-0.2
+-0.2
+-0.4
+-0.4
+-0.6
+-0.4
+-0.2
+-0.4
+-0.4
+-0.2
+-0.4
+-0.4
+0.0
+-0.2
+-0.6
+-0.2
+-0.2
+-0.4
+-0.4
+-0.2
+0.2
+-0.2
+-0.8
+0.2
+-0.2
+-0.2
+-0.6
+-0.8
+0.0
+0.2
+-0.4
+0.4
+-0.8
+0.2
+-0.4
+-0.8
+-0.4
+0.2
+-0.2
+-0.6
+-0.2
+0.0
+-0.6
+-0.2
+-0.6
+-0.2
+-0.6
+-0.4
+-0.4
+-0.6
+-0.6
+-0.4
+-0.4
+-0.2
+0.0
+0.0
+-0.2
+0.0
+-0.2
+-0.4
+0.2
+-0.2
+0.2
+-0.2
+-0.4
+-0.2
+-0.4
+-0.4
+-0.4
+0.0
+-0.4
+-1.0
+0.0
+-0.4
+-0.4
+-0.4
+-0.6
+-0.6
+-0.4
+-0.2
+-0.4
+0.0
+-0.6
+-0.6
+-0.2
+-0.8
+-0.8
+-0.4
+-0.6
+0.0
+-0.8
+-0.2
+-0.6
+0.2
+-0.2
+-0.4
+-0.4
+0.4
+0.2
+-0.4
+-0.2
+0.2
+-0.2
+0.2
+0.0
+-0.4
+-0.4
+-0.2
+0.2
+0.0
+0.2
+-0.4
+0.2
+-0.2
+0.0
+-0.6
+0.0
+-0.6
+-0.4
+-0.4
+-0.2
+-0.2
+0.0
+-0.4
+-0.2
+-0.6
+-0.6
+-0.4
+0.0
+-0.6
+-0.2
+-0.4
+-0.8
+0.2
+-0.4
+-0.6
+-0.2
+-0.4
+-0.4
+-0.2
+-0.6
+-0.2
+-0.2
+0.2
+0.0
+-0.4
+-0.6
+-0.2
+-0.6
+-0.2
+0.2
+-0.4
+-0.4
+-0.2
+-0.2
+-0.4
+0.4
+-0.6
+0.2
+-0.2
+-0.2
+0.0
+0.2
+-0.6
+-0.4
+0.0
+-0.4
+0.2
+-0.6
+-0.2
+-0.2
+-0.4
+-0.6
+-0.6
+-0.4
+0.0
+-0.6
+-0.2
+-0.4
+-0.2
+-0.6
+-0.2
+-0.2
+-0.2
+-0.8
+0.2
+-0.6
+0.2
+-0.6
+-0.4
+-0.2
+-0.8
+0.2
+0.0
+-0.8
+-0.6
+-0.4
+-0.6
+0.2
+-0.2
+-0.2
+0.4
+-0.6
+-0.2
+-0.8
+-0.4
+-0.6
+-0.2
+0.0
+0.0
+-0.6
+-0.2
+-0.4
+-0.2
+-0.2
+-0.2
+-0.8
+0.0
+-0.4
+-0.4
+0.2
+0.4
+-0.6
+-0.4
+-0.8
+-0.2
+-0.2
+-0.4
+-0.2
+0.0
+-0.2
+-0.2
+-0.4
+-0.6
+-0.6
+0.2
+-0.2
+0.2
+0.0
+0.0
+0.0
+0.0
+-0.2
+0.0
+0.2
+-0.2
+0.0
+0.0
+-0.2
+-0.6
+-0.4
+-0.2
+-0.6
+0.0
+0.2
+0.0
+0.2
+0.4
+0.4
+0.4
+0.0
+-0.2
+0.0
+-0.4
+-0.2
+-0.6
+0.2
+0.2
+-0.2
+-0.2
+-0.4
+0.0
+-0.6
+-0.2
+-0.4
+0.2
+-0.2
+0.0
+-0.4
+-0.4
+0.0
+0.4
+-0.4
+-0.6
+-0.2
+-0.2
+0.0
+-0.2
+-0.8
+0.2
+-0.2
+-0.2
+-0.6
+-0.4
+-0.2
+-0.2
+0.0
+-0.6
+0.0
+0.0
+0.2
+-0.4
+0.2
+0.0
+0.2
+-0.2
+0.2
+0.2
+0.2
+-0.2
+-0.2
+0.0
+0.0
+0.0
+0.2
+0.6
+0.0
+-0.8
+-0.2
+-0.4
+0.0
+0.2
+-0.2
+-0.4
+-0.4
+0.0
+-0.2
+-0.2
+0.2
+-0.2
+0.0
+-0.2
+0.2
+-0.6
+-0.2
+0.0
+-0.4
+-0.2
+0.2
+0.8
+0.4
+-0.4
+0.0
+0.0
+-0.6
+-0.4
+0.0
+-0.2
+-0.4
+0.2
+-0.6
+-0.4
+0.4
+-0.2
+-0.2
+-0.4
+-0.2
+0.2
+-0.2
+-0.6
+0.0
+-0.2
+-0.2
+-0.4
+0.4
+-0.2
+-0.2
+-0.2
+-0.6
+0.4
+-0.2
+0.4
+-0.2
+0.2
+0.4
+-0.2
+-0.6
+0.4
+0.0
+-0.2
+-0.2
+0.0
+-0.2
+-0.2
+0.0
+-0.2
+0.2
+-0.2
+-0.4
+-0.4
+-0.6
+-0.8
+-0.2
+0.4
+-0.2
+-0.4
+-0.2
+0.2
+0.4
+0.4
+0.0
+-0.2
+-0.4
+-0.2
+0.2
+-0.4
+0.2
+-0.6
+0.2
+-0.2
+-0.2
+-0.4
+-0.2
+0.4
+-0.4
+0.2
+-0.2
+0.4
+-0.4
+-0.2
+0.0
+-0.4
+0.0
+-0.2
+-0.2
+0.0
+0.8
+-0.2
+-0.2
+-0.2
+0.2
+0.0
+-0.2
+0.0
+-0.2
+-0.2
+-0.2
+-0.6
+0.4
+-0.8
+0.0
+-0.2
+-0.4
+-0.2
+-0.2
+-0.4
+0.0
+-0.4
+0.2
+-0.4
+0.6
+0.0
+-0.2
+0.2
+-0.4
+-0.4
+-0.2
+-0.2
+0.2
+-0.6
+-0.2
+-0.2
+-0.4
+0.0
+-0.4
+-0.2
+-0.2
+-0.2
+0.0
+-0.2
+-0.4
+-0.4
+0.0
+-0.2
+0.4
+-0.6
+0.0
+-0.2
+-0.4
+0.2
+-0.6
+-0.2
+0.2
+-0.2
+-0.2
+0.2
+-0.2
+0.2
+-0.8
+0.0
+0.0
+-0.2
+-0.4
+-0.6
+0.0
+0.0
+-0.2
+-0.2
+0.4
+0.0
+-0.2
+0.0
+-0.6
+0.2
+-0.4
+-0.8
+-0.2
+0.4
+-0.8
+-0.4
+-0.6
+-0.6
+0.4
+-0.2
+0.2
+-0.2
+0.2
+-0.2
+0.2
+0.0
+-0.4
+-0.4
+-0.2
+0.0
+-0.2
+0.6
+0.6
+-0.2
+0.2
+-0.4
+-0.4
+0.2
+0.0
+-0.2
+-0.2
+-0.2
+0.4
+-0.2
+-0.4
+-0.2
+-0.6
+-0.6
+-0.6
+0.0
+0.0
+0.2
+-0.6
+0.0
+0.0
+0.6
+-0.6
+0.2
+0.2
+-0.4
+-0.2
+-0.4
+-0.2
+-0.2
+0.2
+-0.2
+0.4
+-0.6
+-0.4
+-0.2
+0.2
+-0.4
+-0.2
+0.4
+0.2
+0.0
+0.2
+-0.4
+0.0
+-0.2
+-0.2
+-0.2
+-0.2
+0.0
+0.4
+-0.4
+-0.4
+-0.4
+-0.4
+-0.4
+-0.4
+0.2
+0.0
+-0.2
+-0.4
+0.0
+-0.4
+0.0
+-0.6
+0.0
+-0.6
+0.0
+0.2
+0.0
+-0.2
+-0.4
+-0.6
+0.0
+0.0
+0.2
+-0.2
+-1.0
+-0.4
+0.2
+0.4
+0.2
+-0.4
+-0.2
+-0.6
+-0.2
+0.4
+0.0
+0.2
+0.2
+0.0
+-0.4
+-0.6
+0.2
+-0.4
+-0.4
+-0.4
+0.0
+0.2
+-0.8
+-0.4
+-0.2
+-0.6
+-0.2
+-0.2
+-0.2
+0.0
+0.2
+-0.6
+-0.6
+0.0
+-0.4
+-0.4
+-0.2
+0.0
+-0.4
+0.4
+-0.2
+0.2
+0.0
+-0.2
+-0.4
+-0.4
+-0.2
+-0.6
+0.0
+-0.2
+0.0
+-0.6
+-0.6
+0.8
+-0.2
+0.2
+-0.6
+-0.4
+-0.6
+0.2
+0.0
+0.0
+-0.4
+0.2
+0.0
+0.0
+-0.2
+0.0
+0.6
+0.0
+-0.6
+0.0
+0.0
+0.6
+-0.8
+-0.2
+-0.6
+-0.2
+0.0
+-0.2
+0.4
+0.2
+-0.4
+0.4
+-0.4
+-0.2
+0.0
+-0.2
+0.2
+0.0
+-0.2
+-0.8
+-0.4
+-0.2
+0.0
+0.2
+0.0
+-0.4
+0.2
+-0.4
+0.0
+-0.6
+-0.6
+0.2
+-0.4
+-0.6
+0.0
+-0.4
+-0.2
+-0.4
+-0.2
+-0.4
+0.0
+0.4
+-0.4
+-0.6
+-0.6
+-0.6
+-0.4
+0.2
+-0.2
+0.0
+-0.4
+0.0
+0.0
+-0.2
+-0.4
+0.2
+-0.4
+0.0
+0.2
+-0.2
+-0.6
+-0.2
+-0.2
+-0.4
+0.4
+-0.2
+-0.2
+-0.4
+0.0
+-0.2
+-0.8
+-0.2
+-0.6
+0.0
+0.0
+0.0
+0.0
+-0.4
+-0.2
+0.0
+-0.4
+-0.6
+0.4
+0.2
+0.0
+-0.2
+-0.2
+0.0
+-0.2
+-0.2
+-0.2
+0.0
+-0.2
+0.4
+0.2
+-0.4
+-0.2
+0.4
+-0.4
+-0.2
+-0.4
+0.0
+-0.4
+0.0
+0.0
+0.0
+-0.2
+-0.4
+0.2
+0.2
+-0.4
+0.0
+-0.4
+-0.2
+0.4
+-0.4
+0.2
+0.0
+0.2
+0.6
+-0.2
+-0.2
+-0.8
+-0.4
+-0.6
+-0.2
+-0.4
+-0.2
+0.0
+0.2
+0.2
+0.4
+0.2
+-0.6
+-0.6
+0.0
+-0.4
+-0.8
+0.0
+-0.2
+-0.2
+0.2
+0.4
+0.2
+0.0
+-0.2
+-0.4
+-0.8
+-0.2
+-0.4
+-0.4
+0.0
+-0.4
+-0.6
+-0.2
+-0.6
+0.2
+-0.2
+-0.4
+0.2
+-0.4
+-0.2
+0.2
+-0.6
+-0.8
+0.0
+0.0
+0.0
+0.2
+0.2
+0.0
+0.0
+0.4
+-0.2
+-0.2
+-0.4
+0.6
+0.0
+-0.8
+-0.2
+-0.6
+0.4
+0.6
+0.2
+0.2
+-0.2
+0.2
+0.2
+-0.6
+0.2
+-0.2
+0.0
+0.0
+-0.2
+-0.2
+0.2
+0.0
+0.2
+0.2
+0.0
+0.0
+0.0
+-0.6
+0.2
+-0.4
+-0.2
+0.0
+0.2
+0.4
+0.0
+-0.2
+0.0
+0.0
+0.2
+-0.2
+-0.4
+0.6
+0.2
+0.0
+0.4
+0.2
+0.4
+-0.6
+0.0
+0.0
+-0.2
+0.2
+0.6
+-0.2
+-0.2
+-0.2
+0.0
+0.0
+0.4
+-0.4
+0.2
+0.4
+0.0
+0.0
+0.2
+-0.6
+0.0
+0.0
+-0.8
+-0.2
+-0.2
+0.2
+-0.2
+-0.2
+Learning finished. Total episodes: 10000
+At the beginning of the Main
+At the beginning of the Main
+Starting DQNAgent for Environment 'Treasure and Pirate'
+-0.4
+-0.7
+-0.3
+-0.2
+0.4
+-0.3
+-0.4
+-0.2
+-0.3
+-0.5
+-0.1
+-0.5
+-0.2
+-0.4
+-0.3
+-0.3
+-0.2
+-0.3
+0.0
+-0.2
+-0.4
+-0.3
+0.2
+-0.4
+-0.2
+0.1
+0.2
+-0.7
+-0.3
+0.2
+0.0
+0.0
+-0.2
+-0.3
+0.0
+0.4
+-0.3
+-0.3
+-0.4
+-0.4
+-0.2
+-0.3
+-0.5
+-0.4
+0.1
+-0.1
+-0.2
+0.0
+0.1
+0.0
+0.0
+-0.6
+-0.2
+-0.3
+-0.1
+-0.1
+0.1
+-0.4
+0.2
+0.3
+0.4
+0.1
+-0.4
+0.1
+-0.1
+-0.4
+-0.9
+-0.1
+-0.2
+-0.4
+0.1
+-0.3
+-0.5
+-0.3
+-0.1
+-0.5
+-0.2
+0.3
+-0.1
+-0.6
+0.0
+-0.5
+0.0
+-0.3
+0.2
+-0.1
+0.1
+0.2
+-0.1
+0.0
+-0.8
+0.4
+-0.1
+0.1
+-0.1
+0.0
+0.0
+-0.2
+-0.2
+-0.3
+Learning finished. Total episodes: 1000
+At the beginning of the Main
+Starting DQNAgent for Environment 'Treasure and Pirate'
+10.0
+-40.0
+20.0
+-20.0
+10.0
+-30.0
+-30.0
+0.0
+-50.0
+-30.0
+0.0
+-10.0
+-30.0
+-20.0
+10.0
+20.0
+-30.0
+10.0
+-20.0
+-40.0
+-30.0
+-10.0
+-10.0
+-10.0
+-40.0
+-50.0
+-10.0
+-40.0
+0.0
+0.0
+0.0
+-30.0
+0.0
+-40.0
+-20.0
+-20.0
+-20.0
+-50.0
+-60.0
+0.0
+-20.0
+-20.0
+-30.0
+-10.0
+-40.0
+-30.0
+-30.0
+-60.0
+40.0
+-40.0
+-10.0
+-10.0
+-40.0
+10.0
+-10.0
+-40.0
+-30.0
+-40.0
+-20.0
+20.0
+10.0
+0.0
+-20.0
+-40.0
+-50.0
+30.0
+-30.0
+-20.0
+-30.0
+0.0
+0.0
+-10.0
+-50.0
+30.0
+-60.0
+20.0
+-40.0
+10.0
+-40.0
+10.0
+-10.0
+-30.0
+40.0
+20.0
+-10.0
+-30.0
+0.0
+-10.0
+-70.0
+-10.0
+20.0
+0.0
+0.0
+10.0
+0.0
+-40.0
+-30.0
+-50.0
+-20.0
+-10.0
+Learning finished. Total episodes: 1000
+At the beginning of the Main
+Starting DQNAgent for Environment 'Treasure and Pirate'
+-17.7
+-16.0
+-35.6
+-6.8
+-30.0
+3.0
+1.7
+-6.5
+-16.3
+-12.0
+3.8
+-8.4
+-27.4
+-37.3
+-18.3
+-46.0
+6.5
+-36.9
+1.5
+44.0
+12.4
+22.1
+13.5
+-19.6
+-25.2
+18.2
+-26.1
+4.0
+-26.9
+-27.3
+15.4
+23.8
+-43.1
+2.7
+31.9
+-37.6
+13.8
+-19.5
+-6.0
+-14.8
+-4.2
+14.2
+-14.7
+-27.9
+2.4
+-7.8
+-16.2
+-63.6
+24.0
+-37.0
+-15.2
+12.3
+-35.3
+-24.7
+-7.9
+-6.9
+-32.2
+-37.9
+6.6
+-4.2
+2.4
+-5.7
+-23.8
+14.8
+14.6
+-24.6
+-39.8
+-47.6
+-8.0
+-28.5
+-15.5
+-38.5
+5.9
+-46.9
+-32.0
+-47.4
+-56.4
+-35.8
+-35.2
+-37.5
+-42.2
+0.6
+-47.2
+-8.5
+-4.4
+-44.7
+13.9
+-48.5
+-18.1
+-36.0
+-36.0
+-66.3
+12.7
+13.0
+2.7
+-18.4
+-26.3
+-27.0
+-28.5
+-35.9
+Learning finished. Total episodes: 1000
+At the beginning of the Main
+At the beginning of the Main
+Starting DQNAgent for Environment 'Treasure and Pirate'
+Finished episode 10 after 8 timesteps. Steps Per Second 999.9403860217722
+Episode reward: 1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 20 after 4 timesteps. Steps Per Second 1151.4488657708423
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 30 after 8 timesteps. Steps Per Second 1178.0929532192188
+Episode reward: 1.0
+Average of last 5 rewards: 0.6
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 40 after 2 timesteps. Steps Per Second 1215.1762099843486
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 50 after 1 timesteps. Steps Per Second 1210.6586772088538
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 60 after 4 timesteps. Steps Per Second 1210.0997405023957
+Episode reward: -1.0
+Average of last 5 rewards: 0.6
+Average of last 10 rewards: 0.2
+0.2
+Finished episode 70 after 10 timesteps. Steps Per Second 1222.1523310008686
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 80 after 3 timesteps. Steps Per Second 1193.3987009929742
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 90 after 13 timesteps. Steps Per Second 1189.474233572396
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 100 after 18 timesteps. Steps Per Second 1201.7829579338947
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.6
+-0.6
+Finished episode 110 after 13 timesteps. Steps Per Second 1221.6354696262883
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: 0.2
+0.2
+Finished episode 120 after 1 timesteps. Steps Per Second 1214.320890184965
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 130 after 12 timesteps. Steps Per Second 1226.245407725699
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 140 after 4 timesteps. Steps Per Second 1223.3866577426704
+Episode reward: -1.0
+Average of last 5 rewards: 0.6
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 150 after 1 timesteps. Steps Per Second 1232.4609489717866
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 160 after 8 timesteps. Steps Per Second 1232.2635666196322
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 170 after 1 timesteps. Steps Per Second 1229.6733475479743
+Episode reward: 1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.8
+-0.8
+Finished episode 180 after 5 timesteps. Steps Per Second 1228.3308501656998
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 190 after 6 timesteps. Steps Per Second 1229.6721534645872
+Episode reward: -1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 200 after 4 timesteps. Steps Per Second 1235.2234695751063
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 210 after 5 timesteps. Steps Per Second 1239.9636533716323
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 220 after 2 timesteps. Steps Per Second 1249.1114967661463
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 230 after 9 timesteps. Steps Per Second 1251.1021744284765
+Episode reward: -1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.2
+0.2
+Finished episode 240 after 11 timesteps. Steps Per Second 1254.8153089656023
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 250 after 5 timesteps. Steps Per Second 1259.2401427423806
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.6
+-0.6
+Finished episode 260 after 3 timesteps. Steps Per Second 1256.7130022762112
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.6
+-0.6
+Finished episode 270 after 19 timesteps. Steps Per Second 1259.311248813568
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 280 after 8 timesteps. Steps Per Second 1259.499696772421
+Episode reward: 1.0
+Average of last 5 rewards: 0.6
+Average of last 10 rewards: 0.2
+0.2
+Finished episode 290 after 4 timesteps. Steps Per Second 1260.1674002338382
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 300 after 10 timesteps. Steps Per Second 1266.5538466505693
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 310 after 4 timesteps. Steps Per Second 1267.3008136656288
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 320 after 3 timesteps. Steps Per Second 1270.8435832980317
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 330 after 12 timesteps. Steps Per Second 1274.2535621810891
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.6
+-0.6
+Finished episode 340 after 13 timesteps. Steps Per Second 1279.8637045020969
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.8
+-0.8
+Finished episode 350 after 5 timesteps. Steps Per Second 1276.62095133847
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.8
+-0.8
+Finished episode 360 after 9 timesteps. Steps Per Second 1279.309320921079
+Episode reward: -1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 370 after 5 timesteps. Steps Per Second 1279.8879753567253
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: 0.2
+0.2
+Finished episode 380 after 2 timesteps. Steps Per Second 1283.684837220527
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.6
+-0.6
+Finished episode 390 after 4 timesteps. Steps Per Second 1286.2295908237584
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 400 after 13 timesteps. Steps Per Second 1287.8726755918801
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 410 after 3 timesteps. Steps Per Second 1274.2860539326982
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 420 after 13 timesteps. Steps Per Second 1260.207496600132
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 430 after 10 timesteps. Steps Per Second 1249.026026016262
+Episode reward: -1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 440 after 5 timesteps. Steps Per Second 1246.0224102496238
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 450 after 5 timesteps. Steps Per Second 1238.5097345983345
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 460 after 1 timesteps. Steps Per Second 1238.6122659832095
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.6
+-0.6
+Finished episode 470 after 8 timesteps. Steps Per Second 1243.6079060637326
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.8
+-0.8
+Finished episode 480 after 6 timesteps. Steps Per Second 1248.940387629465
+Episode reward: -1.0
+Average of last 5 rewards: -1.0
+Average of last 10 rewards: -1.0
+-1.0
+Finished episode 490 after 8 timesteps. Steps Per Second 1249.9284869723535
+Episode reward: -1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.2
+0.2
+Finished episode 500 after 1 timesteps. Steps Per Second 1255.8227212964466
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 510 after 11 timesteps. Steps Per Second 1258.5956013558127
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 520 after 6 timesteps. Steps Per Second 1260.6230183785342
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 530 after 11 timesteps. Steps Per Second 1265.1335812910913
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 540 after 2 timesteps. Steps Per Second 1264.7382900260602
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 550 after 2 timesteps. Steps Per Second 1271.3875368661115
+Episode reward: -1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 560 after 14 timesteps. Steps Per Second 1275.370521337353
+Episode reward: -1.0
+Average of last 5 rewards: 0.6
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 570 after 3 timesteps. Steps Per Second 1278.113197795543
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 580 after 1 timesteps. Steps Per Second 1282.1167926014714
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 590 after 5 timesteps. Steps Per Second 1282.53528581152
+Episode reward: 1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 600 after 8 timesteps. Steps Per Second 1285.3491851069061
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.4
+0.4
+Finished episode 610 after 2 timesteps. Steps Per Second 1290.8664447867707
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.8
+-0.8
+Finished episode 620 after 1 timesteps. Steps Per Second 1293.3307398172938
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 630 after 1 timesteps. Steps Per Second 1295.0078539157364
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 640 after 7 timesteps. Steps Per Second 1296.2729589155817
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 650 after 2 timesteps. Steps Per Second 1297.509294006119
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 660 after 5 timesteps. Steps Per Second 1297.0486760833305
+Episode reward: 1.0
+Average of last 5 rewards: 0.6
+Average of last 10 rewards: 0.2
+0.2
+Finished episode 670 after 13 timesteps. Steps Per Second 1297.5321737934
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 680 after 7 timesteps. Steps Per Second 1298.452816388816
+Episode reward: -1.0
+Average of last 5 rewards: -1.0
+Average of last 10 rewards: -0.6
+-0.6
+Finished episode 690 after 8 timesteps. Steps Per Second 1301.4018655233108
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.6
+-0.6
+Finished episode 700 after 1 timesteps. Steps Per Second 1303.3420121157362
+Episode reward: -1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.2
+0.2
+Finished episode 710 after 2 timesteps. Steps Per Second 1304.360894138711
+Episode reward: 1.0
+Average of last 5 rewards: 0.6
+Average of last 10 rewards: 0.4
+0.4
+Finished episode 720 after 29 timesteps. Steps Per Second 1306.3008315429306
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 730 after 7 timesteps. Steps Per Second 1309.3443313756552
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.2
+0.2
+Finished episode 740 after 5 timesteps. Steps Per Second 1313.2646151295965
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 750 after 25 timesteps. Steps Per Second 1318.8637489766659
+Episode reward: -1.0
+Average of last 5 rewards: -1.0
+Average of last 10 rewards: -0.8
+-0.8
+Finished episode 760 after 2 timesteps. Steps Per Second 1320.8233954121522
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 770 after 9 timesteps. Steps Per Second 1321.4840055441177
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 780 after 7 timesteps. Steps Per Second 1321.8966498066
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.6
+-0.6
+Finished episode 790 after 5 timesteps. Steps Per Second 1324.1333139842172
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 800 after 3 timesteps. Steps Per Second 1322.6414361683007
+Episode reward: 1.0
+Average of last 5 rewards: 0.6
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 810 after 3 timesteps. Steps Per Second 1322.4480405565032
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 820 after 3 timesteps. Steps Per Second 1324.1897132551587
+Episode reward: -1.0
+Average of last 5 rewards: -1.0
+Average of last 10 rewards: -1.0
+-1.0
+Finished episode 830 after 4 timesteps. Steps Per Second 1324.6920872262467
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 840 after 3 timesteps. Steps Per Second 1325.8532247424812
+Episode reward: -1.0
+Average of last 5 rewards: -1.0
+Average of last 10 rewards: -0.8
+-0.8
+Finished episode 850 after 4 timesteps. Steps Per Second 1326.3468167039202
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 860 after 8 timesteps. Steps Per Second 1327.4705709027799
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 870 after 15 timesteps. Steps Per Second 1330.9924144328986
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 880 after 3 timesteps. Steps Per Second 1330.8737879398077
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 890 after 3 timesteps. Steps Per Second 1330.013109854646
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 900 after 2 timesteps. Steps Per Second 1330.7177911122465
+Episode reward: 1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 910 after 6 timesteps. Steps Per Second 1331.472518547531
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 920 after 7 timesteps. Steps Per Second 1333.5186858760417
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 930 after 6 timesteps. Steps Per Second 1334.034922011865
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 940 after 28 timesteps. Steps Per Second 1337.6654584192906
+Episode reward: -1.0
+Average of last 5 rewards: -1.0
+Average of last 10 rewards: -0.6
+-0.6
+Finished episode 950 after 5 timesteps. Steps Per Second 1337.5660760826315
+Episode reward: -1.0
+Average of last 5 rewards: 0.2
+Average of last 10 rewards: 0.0
+0.0
+Finished episode 960 after 6 timesteps. Steps Per Second 1337.350289916714
+Episode reward: 1.0
+Average of last 5 rewards: 0.6
+Average of last 10 rewards: 0.2
+0.2
+Finished episode 970 after 7 timesteps. Steps Per Second 1337.6320759562695
+Episode reward: 1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 980 after 14 timesteps. Steps Per Second 1338.7740601770954
+Episode reward: -1.0
+Average of last 5 rewards: -0.6
+Average of last 10 rewards: -0.4
+-0.4
+Finished episode 990 after 5 timesteps. Steps Per Second 1339.0282098168998
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.2
+-0.2
+Finished episode 1000 after 23 timesteps. Steps Per Second 1340.66675415711
+Episode reward: -1.0
+Average of last 5 rewards: -0.2
+Average of last 10 rewards: -0.4
+-0.4
+Learning finished. Total episodes: 1000

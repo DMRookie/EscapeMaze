@@ -1,0 +1,15 @@
+[
+    {
+        "type": "embedding",
+        "indices": 8,
+        "size": 32
+    },
+    {
+        "type": "dense",
+        "size": 32
+    },
+    {
+        "type": "dense",
+        "size": 32
+    }
+]
