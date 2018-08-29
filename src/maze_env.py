@@ -83,7 +83,7 @@ class MazeEnv(Environment):
         # self.nowstate = np.array([self.seed.randint(0, 5) + 0.0, 0])
         return self.nowstate
 
-    def execute(self, actions):
+    def execute(self, action):
         # convert action to  discrete
         # nowstate = int(self.nowstate[0])
         # if nowstate in self.terminal_state:
@@ -107,7 +107,7 @@ class MazeEnv(Environment):
         # discrete state
         if self.nowstate in self.terminal_state:
             return self.nowstate, True, 0
-        key = '%d_%d' % (self.nowstate, actions)
+        key = '%d_%d' % (self.nowstate, action)
         if key in self.trans:
             next_state = self.trans[key]
         else:
